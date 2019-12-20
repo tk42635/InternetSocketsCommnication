@@ -1,13 +1,8 @@
--- Name: De Huo
--- USC ID: 5800258036
--- USC Net ID: dehuo
+-- Author: De Huo
 -- Email: dehuo@usc.edu
--- Course: EE450 
--- Session: 2
 
 -- What have I done in this project:
-	I successfully accomplished all phases of tasks and realized all expected functionalities and features as described in the project handbook.
-	Some functions and features take the boundry cases, corner cases and pathological states into consideration.
+	
 
 -- Description of each file:
 	client.c: get 3 arguments(mapID, starting node and file size) from users, query the AWS server for shortest paths to the other nodes in the same map and 3 kinds of delay time by using TCP.
