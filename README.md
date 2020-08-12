@@ -30,7 +30,7 @@ __aws.h, serverA.h, serverB.h:__ Include header files, define constant value, de
 	dist: int[], shortest paths to every node 
 	propSpeed: double
 	tranSpeed: double
-
+	
 	5. server B -> AWS
 	tranDelay: double
 	propDelay: double[], propagation delay to every node
@@ -43,4 +43,4 @@ __aws.h, serverA.h, serverB.h:__ Include header files, define constant value, de
 	end2endDelay: double[], end-to-end delay delay to every node
 
 ## Disclaimer
-	Some code about socket transmission are from "Beej's Guide to Network Programming -- Using Internet Sockets". 
+Some code about socket transmission are from "Beej's Guide to Network Programming -- Using Internet Sockets". 
